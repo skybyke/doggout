@@ -1,2 +1,0 @@
-"""Doggout integration."""
-DOMAIN = "dog"
