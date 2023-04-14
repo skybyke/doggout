@@ -1,0 +1,2 @@
+"""Doggout integration."""
+DOMAIN = "dog"
